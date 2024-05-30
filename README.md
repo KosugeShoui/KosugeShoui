@@ -38,17 +38,17 @@ I love to work on projects related to Machine learning.
 
 ## My Skills
 
-- **Languages**: [List of Programming Languages]
-- **Frameworks/Libraries**: [List of Frameworks/Libraries]
-- **Tools**: [List of Tools]
+- **Languages**: Python, C , C++ 
+- **Frameworks/Libraries**: Pytorch, Tensorflow, Django
+- **Tools**: VScode
 
 ## Projects
 
 Here are some of my notable projects:
 
-1. **VISEM Tracking** - [Brief Description]
+1. **VISEM Tracking** - Using Sperm Datesets
    - https://github.com/simulamet-host/visem-tracking/tree/main
-2. **MOTR** - [Brief Description]
+2. **MOTR** - Base Detection & Tracking Model
    - https://github.com/megvii-research/MOTR
 
 
