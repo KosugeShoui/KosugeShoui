@@ -31,7 +31,7 @@ I love to work on projects related to Machine learning.
 
 - 🔭 I’m currently working on Reproductive Medicine AI Application Project（ART Project)
 - 🌱 I’m currently learning Detection & Tracking Model、Super Resolution usind Diffusion Models.
-- 👯 I’m looking to collaborate on Object Detection & Trakcing Task.
+- 👯 I’m looking to collaborate on Object Detection & Tracking Task.
 
 ## My Skills
 
