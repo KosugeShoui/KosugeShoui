@@ -56,7 +56,7 @@ Here are some of my notable projects:
 
 ## Connect with Me
 
-- [LinkedIn](None)
+- [LinkedIn](https://www.linkedin.com/in/%E7%BF%94%E7%94%9F-%E5%8F%A4%E8%8F%85-5a0b3b310/)
 - [Twitter](https://twitter.com/your-twitter/)
 - [Personal Website/Blog](None)
 
