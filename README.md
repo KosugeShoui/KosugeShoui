@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a Yokohama National University, 2nd year of Master's degree, passionate about Machine learning, image processing, AI applications. 
+I'm a Yokohama National University(YNU), 2nd year of Master's degree, passionate about Machine learning, image processing, AI applications. 
 I love to work on projects related to Machine learning.
 
 - 🔭 I’m currently working on Reproductive Medicine AI Application Project（ART Project)
