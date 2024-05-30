@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 </p>
 ## About Me
 
-I'm a [Your Profession/Role], passionate about [Your Interests/Fields of Expertise]. I love to work on projects related to [Relevant Technologies/Fields].
+I'm a Yokohama National University, 2nd year of Master's degree, passionate about Machine learning, image processing, AI applications. 
+I love to work on projects related to Machine learning.
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Collaborative Interests]
+- 🔭 I’m currently working on Reproductive Medicine AI Application Project（ART Project)
+- 🌱 I’m currently learning Detection & Tracking Model、Super Resolution usind Diffusion Models.
+- 👯 I’m looking to collaborate on Object Detection & Trakcing Task.
 - 💬 Ask me about [Expertise/Interests]
 - 📫 How to reach me: [Your Email/LinkedIn/Twitter]
 - ⚡ Fun fact: [Interesting Fact About You]
@@ -44,10 +45,10 @@ I'm a [Your Profession/Role], passionate about [Your Interests/Fields of Experti
 
 Here are some of my notable projects:
 
-1. **[Project Name]** - [Brief Description]
-   - [GitHub Repository Link]
-2. **[Project Name]** - [Brief Description]
-   - [GitHub Repository Link]
+1. **VISEM Tracking** - [Brief Description]
+   - https://github.com/simulamet-host/visem-tracking/tree/main
+2. **MOTR** - [Brief Description]
+   - https://github.com/megvii-research/MOTR
 
 
 ## Connect with Me
