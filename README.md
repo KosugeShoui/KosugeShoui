@@ -42,6 +42,11 @@ I love to work on projects related to Machine learning.
 - **Frameworks/Libraries**: Pytorch, Tensorflow, Django
 - **Tools**: VScode
 
+## Conference
+- Information Processing Society of Japan(Kanagawa University) 2024
+- https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html
+- Student Incentive Award
+
 ## Projects
 
 Here are some of my notable projects:
