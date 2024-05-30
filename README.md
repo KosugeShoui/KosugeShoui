@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **KosugeShoui/KosugeShoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KosugeShoui&theme=onedark&show_icons=ture" />
 </p>
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shoui Kosuge 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KosugeShoui&color=brightgreen)
 
