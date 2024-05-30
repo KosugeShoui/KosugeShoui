@@ -35,9 +35,9 @@ I love to work on projects related to Machine learning.
 
 ## My Skills
 
-- **Languages**: Python, C , C++ 
-- **Frameworks/Libraries**: Pytorch, Tensorflow, Django
-- **Tools**: VScode
+- **Languages**: Python, C , C++ , Java
+- **Frameworks/Libraries**: Pytorch, Tensorflow, Django, PySimpleGUI
+- **Tools**: VScode, Jupyter
 
 ## Conference
 - Information Processing Society of Japan(Kanagawa University) 2024
