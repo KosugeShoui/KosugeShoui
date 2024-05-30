@@ -45,7 +45,7 @@ I love to work on projects related to Machine learning.
 ## Conference
 - Information Processing Society of Japan(Kanagawa University) 2024
 - https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html
-- Student Incentive Award
+- Student Incentive Award!!!
 
 ## Projects
 
