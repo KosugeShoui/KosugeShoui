@@ -43,6 +43,8 @@ I love to work on projects related to Machine learning.
 - Information Processing Society of Japan(Kanagawa University) 2024
 - https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html
 - Student Incentive Award!!!
+- https://www.ipsj.or.jp/award/taikaisyorei.html
+- Awarded the Encouragement Prize of the Conference.
 
 ## Projects
 
