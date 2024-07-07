@@ -45,6 +45,7 @@ I love to work on projects related to Machine learning.
 - Student Incentive Award!!!
 - https://www.ipsj.or.jp/award/taikaisyorei.html
 - Awarded the Encouragement Prize of the Conference!!!(86th National Conference)
+- MIRU 2024 In Kumamoto
 
 ## Projects
 
