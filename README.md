@@ -58,8 +58,6 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 - SSI Best Presentation Award
 - SSI Research Encouragement Award
 
-## Journal
-- Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access(Submitted)
 
 
 
