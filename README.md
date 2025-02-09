@@ -33,6 +33,9 @@ I love to work on projects related to Machine learning.
 - 🌱 I’m currently learning Detection & Tracking Model、Super Resolution usind Diffusion Models.
 - 👯 I’m looking to collaborate on Object Detection & Tracking Task.
 
+Our Project : Press Release Development of AI-based Sperm Evaluation System
+https://www.ynu.ac.jp/hus/koho/32338/detail.html
+
 ## My Skills
 
 - **Languages**: Python, C , C++ , Java
