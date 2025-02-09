@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/b5374f80-f4ff-4c5f-aa18-d96f5be690d5)
 
 <!--
 **KosugeShoui/KosugeShoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,6 +56,9 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 - https://ssi2024.sice.or.jp/award.html
 - SSI Best Presentation Award
 - SSI Research Encouragement Award
+
+## Journal
+- Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access(Submitted)
 
 
 
