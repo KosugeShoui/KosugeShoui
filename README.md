@@ -56,7 +56,7 @@ I love to work on projects related to Machine learning.
 - SSI Research Encouragement Award
 
 ## Journal
-- Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access (Submitted)
+- Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access(Submitted)
 
 
 
