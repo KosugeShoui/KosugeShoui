@@ -41,11 +41,20 @@ I love to work on projects related to Machine learning.
 
 ## Conference
 - Information Processing Society of Japan(Kanagawa University) 2024
+- MIRU 2024 In Kumamoto
+- The Society of Instrument and Control Engineers(SSI2024)
+- Information Processing Society of Japan(Ritsumeikan University) 2025
+
+## Award
+- Information Processing Society of Japan(Kanagawa University) 2024
 - https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html
 - Student Incentive Award!!!
 - https://www.ipsj.or.jp/award/taikaisyorei.html
 - Awarded the Encouragement Prize of the Conference!!!(86th National Conference)
-- MIRU 2024 In Kumamoto
+- https://ssi2024.sice.or.jp/award.html
+- SSI Best Presentation Award
+- SSI Research Encouragement Award
+
 
 ## Projects
 
