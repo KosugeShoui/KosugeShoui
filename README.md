@@ -35,6 +35,9 @@ I love to work on projects related to Machine learning.
 Our Project : Press Release Development of AI-based Sperm Evaluation System
 https://www.ynu.ac.jp/hus/koho/32338/detail.html
 
+![Uploading アプリ画面.png…]()
+
+
 ## My Skills
 
 - **Languages**: Python, C , C++ , Java
