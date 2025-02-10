@@ -76,6 +76,8 @@ Here are some of my notable projects:
    - https://github.com/simulamet-host/visem-tracking/tree/main
 2. **MOTR** - Base Detection & Tracking Model
    - https://github.com/megvii-research/MOTR
+3. **TransTrack** - Base Detection & Tracking Model
+   - https://github.com/PeizeSun/TransTrack
 
 
 ## Connect with Me
