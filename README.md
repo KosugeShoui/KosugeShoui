@@ -60,6 +60,12 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 
 
 
+<li>
+  <b>時空間特徴を考慮したEnd-to-End Transformerによる精子検出・追尾モデルの構築</b><br>
+  &emsp;&emsp;[ <a href="https://miru-committee.github.io/miru2024/program/timetable/" rel="nofollow">MIRU2024</a> ]
+</li>
+
+
 
 
 ## Award
