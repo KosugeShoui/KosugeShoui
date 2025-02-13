@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm Shoui Kosuge 👋
+# Shoui Kosuge
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KosugeShoui&color=brightgreen)
 <p align="left"> 
