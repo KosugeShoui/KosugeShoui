@@ -65,6 +65,11 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
   &emsp;&emsp;[ <a href="https://miru-committee.github.io/miru2024/program/timetable/" rel="nofollow">MIRU2024</a> ]
 </li>
 
+<li>
+  <b>顕微授精支援における精子追尾のための高精度なMultiple-Object-Trackingモデル</b><br>
+  &emsp;&emsp;[ <a href="https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html" rel="nofollow">IPSJ national conv. 2024</a> ]
+</li>
+
 
 
 
