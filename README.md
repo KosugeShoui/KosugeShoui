@@ -55,17 +55,10 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 
 <li>
   <b>3次元Deformable Attentionを用いたEnd-to-End Transformerによる精子検出・追尾モデルの構築</b><br>
-  [ <a href="https://www.sice.or.jp/org/SSI2024/" rel="nofollow">SSI2024</a> ]
+  &emsp;&emsp;[ <a href="https://www.sice.or.jp/org/SSI2024/" rel="nofollow">SSI2024</a> ]
 </li>
 
-</ul>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"><div align="center" dir="auto">Achievement (Domestic Conferences, Japan)</div></h2><a id="user-content-achievement-domestic-conferences-japan" class="anchor" aria-label="Permalink: Achievement (Domestic Conferences, Japan)" href="#achievement-domestic-conferences-japan"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">1st author</h3><a id="user-content-1st-author-1" class="anchor" aria-label="Permalink: 1st author" href="#1st-author-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<ul dir="auto">
-<li>
-<p dir="auto">機械のための復号画像における顔認証精度の評価<br>
-[ <a href="https://www.ipsj.or.jp/event/taikai/87/index.html" rel="nofollow">IPSJ national conv. 2025</a> ]</p>
-</li>
+
 
 
 
