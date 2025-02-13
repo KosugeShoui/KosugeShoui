@@ -125,6 +125,8 @@ Here are some of my notable projects:
    - https://github.com/megvii-research/MOTR
 3. **TransTrack** - Base Detection & Tracking Model
    - https://github.com/PeizeSun/TransTrack
+4. **YOLO** - Object Detection
+   - https://docs.ultralytics.com/ja
 
 
 ## Connect with Me
