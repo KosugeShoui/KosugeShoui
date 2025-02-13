@@ -52,12 +52,13 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
   [ <a href="https://www.ipsj.or.jp/event/taikai/87/index.html" rel="nofollow">IPSJ national conv. 2025</a> ]
 </li>
 
+<li>
+  <b>3次元Deformable Attentionを用いたEnd-to-End Transformerによる精子検出・追尾モデルの構築</b><br>
+  [ <a href="https://www.sice.or.jp/org/SSI2024/" rel="nofollow">SSI2024</a> ]
+</li>
 
 
-- Information Processing Society of Japan(Kanagawa University) 2024
-- MIRU 2024 In Kumamoto
-- The Society of Instrument and Control Engineers(SSI2024)
-- Information Processing Society of Japan(Ritsumeikan University) 2025
+
 
 ## Award
 - Information Processing Society of Japan(Kanagawa University) 2024
