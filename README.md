@@ -46,6 +46,15 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 - **Frameworks/Libraries**: Pytorch, Tensorflow, Django, PySimpleGUI
 - **Tools**: VScode, Jupyter
 
+
+## Journal
+- Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access(Submitted)
+<li>
+  <b>Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access(Submitted)</b><br>
+  &emsp;&emsp;[ <a href="https://ieeeaccess.ieee.org/" rel="nofollow">IEEE Access</a> ]
+</li>
+
+
 ## Conference
 <li>
   <b>精子分析の自動化のためのHDE型Transformerモデルによる精子検出追尾モデルの構築</b><br>
@@ -95,9 +104,6 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 </li>
 
 
-## Journal
-- Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access(Submitted)
-
 
 
 
@@ -118,6 +124,7 @@ Here are some of my notable projects:
 - [LinkedIn](https://www.linkedin.com/in/%E7%BF%94%E7%94%9F-%E5%8F%A4%E8%8F%85-5a0b3b310/)
 - [Twitter](https://x.com/kshoui_re)
 - [Personal Website/Blog](None)
+- Mail : shouikosuge@gmail.com
 
 ---
 
