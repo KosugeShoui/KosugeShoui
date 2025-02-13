@@ -47,6 +47,7 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 - **Tools**: VScode, Jupyter
 
 ## Conference
+<li>
 <p dir="auto">精子分析の自動化のためのHDE型Transformerモデルによる精子検出追尾モデルの構築<br>
 [ <a href="https://www.ipsj.or.jp/event/taikai/87/index.html" rel="nofollow">IPSJ national conv. 2025</a> ]</p>
 </li>
