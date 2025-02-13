@@ -49,8 +49,9 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 ## Conference
 <li>
   <b>精子分析の自動化のためのHDE型Transformerモデルによる精子検出追尾モデルの構築</b><br>
-  [ <a href="https://www.ipsj.or.jp/event/taikai/87/index.html" rel="nofollow">IPSJ national conv. 2025</a> ]
+  &emsp;&emsp;[ <a href="https://www.ipsj.or.jp/event/taikai/87/index.html" rel="nofollow">IPSJ national conv. 2025</a> ]
 </li>
+
 
 <li>
   <b>3次元Deformable Attentionを用いたEnd-to-End Transformerによる精子検出・追尾モデルの構築</b><br>
