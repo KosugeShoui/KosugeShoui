@@ -52,8 +52,6 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
   [ <a href="https://www.ipsj.or.jp/event/taikai/87/index.html" rel="nofollow">IPSJ national conv. 2025</a> ]</p>
 </li>
 
-
-
 - Information Processing Society of Japan(Kanagawa University) 2024
 - MIRU 2024 In Kumamoto
 - The Society of Instrument and Control Engineers(SSI2024)
