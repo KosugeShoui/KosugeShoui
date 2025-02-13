@@ -33,7 +33,7 @@ I love to work on projects related to Machine learning.
 - 👯 I’m looking to collaborate on Object Detection & Tracking Task.
 
 Our Project : [<a href="https://www.ynu.ac.jp/hus/koho/32338/detail.html">Press Release</a>]
- Development of AI-based Sperm Evaluation System
+ Development of AI-based Sperm Evaluation System.
 
 <br>
 
