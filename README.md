@@ -145,7 +145,7 @@ Here are some of my notable projects:
 ## Education
 - 栃木県立宇都宮高等学校 / Tochigi Prefectural Utsunomiya High School <br>
 - 横浜国立大学 理工学部 電子情報システム / Yokohama National University, Faculty of Science and Engineering, Electronics and Information Systems
-- 横浜国立大学大学院 理工学府 情報システム教育分野 / Yokohama National University, Graduate School of Science and Engineering, Department of Information Systems Education[<a href="https://hamagamilab.jimdofree.com/">Hamalab</a>]
+- 横浜国立大学大学院 理工学府 情報システム教育分野 / Yokohama National University, Graduate School of Science and Engineering, Department of Information Systems Education [<a href="https://hamagamilab.jimdofree.com/">Hamalab</a>]
 
 
 
