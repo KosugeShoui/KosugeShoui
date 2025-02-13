@@ -103,16 +103,19 @@ Our Project : [<a href="https://www.ynu.ac.jp/hus/koho/32338/detail.html">Press 
   <b>SSI Best Presentation Award</b><br>
   &emsp;&emsp;[ <a href="https://ssi2024.sice.or.jp/award.html" rel="nofollow">SSI2024. The Society of Instrument and Control Engineers</a> ]
 </li>
+<br>
 
 <li>
   <b>SSI Research Encouragement Award</b><br>
   &emsp;&emsp;[ <a href="https://ssi2024.sice.or.jp/award.html" rel="nofollow">SSI2024. The Society of Instrument and Control Engineers</a> ]
 </li>
+<br>
 
 <li>
   <b>Student Incentive Award</b><br>
   &emsp;&emsp;[ <a href="https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html" rel="nofollow">IPSJ national conv. 2024</a> ]
 </li>
+<br>
 
 <li>
   <b>Awarded the Encouragement Prize of the Conference</b><br>
@@ -141,7 +144,9 @@ Here are some of my notable projects:
 
 ## Education
 - 栃木県立宇都宮高等学校 / Tochigi Prefectural Utsunomiya High School
+- <br>
 - 横浜国立大学 理工学部 電子情報システム / Yokohama National University, Faculty of Science and Engineering, Electronics and Information Systems
+- <br>
 - 横浜国立大学大学院 理工学府 情報システム教育分野 / Yokohama National University, Graduate School of Science and Engineering, Department of Information Systems Education[<a href="https://hamagamilab.jimdofree.com/">Hamalab</a>]
 
 
