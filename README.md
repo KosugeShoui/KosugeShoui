@@ -130,7 +130,7 @@ Our Project : [<a href="https://www.ynu.ac.jp/hus/koho/32338/detail.html">Press 
 
 Here are some of my notable projects:
 
-1. **VISEM Tracking** - Using Sperm Datesets
+1. **VISEM-Tracking** - Using Sperm Datesets
    - https://github.com/simulamet-host/visem-tracking/tree/main
 2. **DanceTrack** - MOT Datasets
    - https://dancetrack.github.io/
