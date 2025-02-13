@@ -72,14 +72,14 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 
 <li>
   <b>3次元Deformable Attentionを用いたEnd-to-End Transformerによる精子検出・追尾モデルの構築</b><br>
-  &emsp;&emsp;[ <a href="https://www.sice.or.jp/org/SSI2024/" rel="nofollow">SSI2024</a> ]
+  &emsp;&emsp;[ <a href="https://www.sice.or.jp/org/SSI2024/" rel="nofollow">SSI2024. The Society of Instrument and Control Engineers</a> ]
 </li>
 
 
 
 <li>
   <b>時空間特徴を考慮したEnd-to-End Transformerによる精子検出・追尾モデルの構築</b><br>
-  &emsp;&emsp;[ <a href="https://miru-committee.github.io/miru2024/program/timetable/" rel="nofollow">MIRU2024</a> ]
+  &emsp;&emsp;[ <a href="https://miru-committee.github.io/miru2024/program/timetable/" rel="nofollow">MIRU2024. Image Recognition and Understanding Symposium</a> ]
 </li>
 
 <li>
@@ -93,12 +93,12 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 ## Award
 <li>
   <b>SSI Best Presentation Award</b><br>
-  &emsp;&emsp;[ <a href="https://ssi2024.sice.or.jp/award.html" rel="nofollow">SSI2024</a> ]
+  &emsp;&emsp;[ <a href="https://ssi2024.sice.or.jp/award.html" rel="nofollow">SSI2024. The Society of Instrument and Control Engineers</a> ]
 </li>
 
 <li>
   <b>SSI Research Encouragement Award</b><br>
-  &emsp;&emsp;[ <a href="https://ssi2024.sice.or.jp/award.html" rel="nofollow">SSI2024</a> ]
+  &emsp;&emsp;[ <a href="https://ssi2024.sice.or.jp/award.html" rel="nofollow">SSI2024. The Society of Instrument and Control Engineers</a> ]
 </li>
 
 <li>
