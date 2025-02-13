@@ -32,8 +32,8 @@ I love to work on projects related to Machine learning.
 - 🌱 I’m currently learning Detection & Tracking Model、Super Resolution using GAN or Diffusion Models.
 - 👯 I’m looking to collaborate on Object Detection & Tracking Task.
 
-Our Project : [Press Release] Development of AI-based Sperm Evaluation System
-https://www.ynu.ac.jp/hus/koho/32338/detail.html
+Our Project : [<a href="https://www.ynu.ac.jp/hus/koho/32338/detail.html">Press Release</a>]
+ Development of AI-based Sperm Evaluation System
 
 <br>
 
@@ -71,11 +71,15 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
   &emsp;&emsp;[ <a href="https://www.ipsj.or.jp/event/taikai/87/index.html" rel="nofollow">IPSJ national conv. 2025</a> ]
 </li>
 
+<br>
+
 
 <li>
   <b>3次元Deformable Attentionを用いたEnd-to-End Transformerによる精子検出・追尾モデルの構築</b><br>
   &emsp;&emsp;[ <a href="https://www.sice.or.jp/org/SSI2024/" rel="nofollow">SSI2024. The Society of Instrument and Control Engineers</a> ]
 </li>
+
+<br>
 
 
 
@@ -83,6 +87,8 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
   <b>時空間特徴を考慮したEnd-to-End Transformerによる精子検出・追尾モデルの構築</b><br>
   &emsp;&emsp;[ <a href="https://miru-committee.github.io/miru2024/program/timetable/" rel="nofollow">MIRU2024. Image Recognition and Understanding Symposium</a> ]
 </li>
+
+<br>
 
 <li>
   <b>顕微授精支援における精子追尾のための高精度なMultiple-Object-Trackingモデル</b><br>
