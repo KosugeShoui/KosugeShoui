@@ -74,14 +74,26 @@ https://www.ynu.ac.jp/hus/koho/32338/detail.html
 
 
 ## Award
-- Information Processing Society of Japan(Kanagawa University) 2024
-- https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html
-- Student Incentive Award!!!
-- https://www.ipsj.or.jp/award/taikaisyorei.html
-- Awarded the Encouragement Prize of the Conference!!!(86th National Conference)
-- https://ssi2024.sice.or.jp/award.html
-- SSI Best Presentation Award
-- SSI Research Encouragement Award
+<li>
+  <b>SSI Best Presentation Award</b><br>
+  &emsp;&emsp;[ <a href="https://ssi2024.sice.or.jp/award.html" rel="nofollow">SSI2024</a> ]
+</li>
+
+<li>
+  <b>SSI Research Encouragement Award</b><br>
+  &emsp;&emsp;[ <a href="https://ssi2024.sice.or.jp/award.html" rel="nofollow">SSI2024</a> ]
+</li>
+
+<li>
+  <b>Student Incentive Award</b><br>
+  &emsp;&emsp;[ <a href="https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html" rel="nofollow">IPSJ national conv. 2024</a> ]
+</li>
+
+<li>
+  <b>Awarded the Encouragement Prize of the Conference</b><br>
+  &emsp;&emsp;[ <a href="https://www.ipsj.or.jp/award/taikaisyorei.html" rel="nofollow">IPSJ national conv. 2024</a> ]
+</li>
+
 
 ## Journal
 - Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access(Submitted)
