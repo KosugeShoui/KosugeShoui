@@ -129,6 +129,10 @@ Here are some of my notable projects:
    - https://github.com/PeizeSun/TransTrack
 5. **YOLO** - Object Detection
    - https://docs.ultralytics.com/ja
+  
+
+## Education
+- memo
 
 
 ## Connect with Me
