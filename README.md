@@ -122,9 +122,11 @@ Our Project : [<a href="https://www.ynu.ac.jp/hus/koho/32338/detail.html">Press 
   &emsp;&emsp;[ <a href="https://www.ipsj.or.jp/award/taikaisyorei.html" rel="nofollow">IPSJ national conv. 2024</a> ]
 </li>
 
+<br>
+
 <li>
   <b>Student Incentive Award</b><br>
-  &emsp;&emsp;[ <a href="https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/1Q-05.html" rel="nofollow">IPSJ national conv. 2025</a> ]
+  &emsp;&emsp;[ <a href="" rel="nofollow">IPSJ national conv. 2025</a> ]
 </li>
 <br>
 
