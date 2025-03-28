@@ -56,7 +56,7 @@ Our Project : [<a href="https://www.ynu.ac.jp/hus/koho/32338/detail.html">Press 
       <div>
         <b>Shoui Kosuge, Tomoki Hamagami, “Sperm Detection and Tracking Model Using HDE Transformer with Spatio-Temporal Deformable Attention for Sperm Analysis Automation”, IEEE Access(Accepted 3/15)</b>
       </div>
-      <div>[ <a href="https://ieeeaccess.ieee.org/" rel="nofollow">IEEE Access</a> ]</div>
+      <div>[ <a href="https://ieeexplore.ieee.org/document/10933967/authors#authors" rel="nofollow">IEEE Access</a> ]</div>
     </div>
   </li>
 </ul>
