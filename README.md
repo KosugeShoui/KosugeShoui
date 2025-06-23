@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Shoui Kosuge
+# Shoui Kosuge/古菅 翔生
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KosugeShoui&color=brightgreen)
 <p align="left"> 
