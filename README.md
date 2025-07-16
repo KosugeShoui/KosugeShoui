@@ -45,7 +45,7 @@ Our Project : [<a href="https://www.ynu.ac.jp/hus/koho/32338/detail.html">Press 
 ## My Skills
 
 - **Languages**: Python, C , C++ , Java
-- **Frameworks/Libraries**: Pytorch, Tensorflow, Django, PySimpleGUI
+- **Frameworks/Libraries**: Pytorch, Tensorflow, Django, PySimpleGUI, Java, Streamlit
 - **Tools**: VScode, Jupyter
 
 
