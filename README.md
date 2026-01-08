@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KosugeShoui&color=brightgreen)
 
+https://kosugeshoui.github.io/
 
 
 ## About Me
