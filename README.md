@@ -155,6 +155,7 @@ Here are some of my notable projects:
 
 ## Professional background
 - Nomura Research Institute, Ltd. Technical Engineer(2025/04-2025/06)
+- Sony,  AI service Engineer(2026/04-)
 
 
 
