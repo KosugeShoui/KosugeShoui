@@ -153,10 +153,6 @@ Here are some of my notable projects:
 - 横浜国立大学 理工学部 電子情報システム / Yokohama National University, Faculty of Science and Engineering, Electronics and Information Systems
 - 横浜国立大学大学院 理工学府 情報システム教育分野 / Yokohama National University, Graduate School of Science and Engineering, Department of Information Systems Education [<a href="https://hamagamilab.jimdofree.com/">Hamalab</a>]
 
-## Professional background
-- Nomura Research Institute, Ltd. Technical Engineer(2025/04-2025/06)
-- Sony,  AI service Engineer(2026/04-)
-
 
 
 ## Connect with Me
