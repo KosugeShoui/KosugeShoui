@@ -152,15 +152,4 @@ Here are some of my notable projects:
 - 横浜国立大学 理工学部 電子情報システム / Yokohama National University, Faculty of Science and Engineering, Electronics and Information Systems
 - 横浜国立大学大学院 理工学府 情報システム教育分野 / Yokohama National University, Graduate School of Science and Engineering, Department of Information Systems Education [<a href="https://hamagamilab.jimdofree.com/">Hamalab</a>]
 
-
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/kosugeshoui/)
-- [Twitter](https://x.com/kshoui_re)
-- [Personal Website/Blog](None)
-- Mail : shouikosuge@gmail.com
-
----
-
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
